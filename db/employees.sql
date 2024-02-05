@@ -43,7 +43,7 @@ CREATE TABLE `employees` (
 INSERT INTO `employees` (`id`, `email`, `first_name`, `last_name`, `address`, `gender`) VALUES
 (38, 'Jan@gmail.com', 'Jang ', 'Tsu Yoo jing', 'Rijswijk', 'male'),
 (235, 'Rick@hotmail.com', 'Rick', 'and Morty', 'Delft', 'male'),
-(306, 'Yasin@gmail.com', 'Yasin', 'Horani', 'Den Haag', 'male');
+(306, 'Yasin@gmail.com', 'Yan', 'h', 'Den Haag', 'male');
 
 --
 -- Indexes for dumped tables
