@@ -7,7 +7,7 @@ if ($_POST['act'] == 'all') {
     $request = $_REQUEST;
     $search = $request['search'];
 
-    // Check if the search query is empty
+    //Check if the search query is empty
     //if (empty($search) || strlen($search) < 3) {
     if (empty($search)) {
         $sql = "SELECT * FROM employees";
